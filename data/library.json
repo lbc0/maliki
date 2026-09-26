@@ -1,0 +1,53 @@
+{
+ "v": 1,
+ "vocab": {
+  "hukm": [
+   {
+    "id": "h1",
+    "label": "واجب",
+    "tone": "wajib"
+   },
+   {
+    "id": "h2",
+    "label": "سنة",
+    "tone": "sunna"
+   },
+   {
+    "id": "h3",
+    "label": "مستحب",
+    "tone": "mustahabb"
+   },
+   {
+    "id": "h4",
+    "label": "مباح",
+    "tone": "mubah"
+   },
+   {
+    "id": "h5",
+    "label": "مكروه",
+    "tone": "makruh"
+   },
+   {
+    "id": "h6",
+    "label": "حرام",
+    "tone": "haram"
+   }
+  ],
+  "roles": [
+   "قال به",
+   "نقله",
+   "رجّحه"
+  ],
+  "labels": [
+   "المشهور",
+   "الراجح",
+   "المعتمد"
+  ]
+ },
+ "scholars": [],
+ "editions": [],
+ "assets": [],
+ "tags": [],
+ "nodes": [],
+ "masail": []
+}
