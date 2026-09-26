@@ -1,0 +1,100 @@
+{
+ "v": 1,
+ "vocab": {
+  "hukm": [
+   {
+    "id": "h1",
+    "label": "واجب",
+    "tone": "wajib"
+   },
+   {
+    "id": "h2",
+    "label": "سنة",
+    "tone": "sunna"
+   },
+   {
+    "id": "h3",
+    "label": "مستحب",
+    "tone": "mustahabb"
+   },
+   {
+    "id": "h4",
+    "label": "مباح",
+    "tone": "mubah"
+   },
+   {
+    "id": "h5",
+    "label": "مكروه",
+    "tone": "makruh"
+   },
+   {
+    "id": "h6",
+    "label": "حرام",
+    "tone": "haram"
+   }
+  ],
+  "roles": [
+   "قال به",
+   "نقله",
+   "رجّحه"
+  ],
+  "labels": [
+   "المشهور",
+   "الراجح",
+   "المعتمد"
+  ]
+ },
+ "scholars": [],
+ "editions": [
+  {
+   "id": "emui32vfa1fvg",
+   "title": "متن ابن عاشر",
+   "author": "عبد الواحد ابن عاشر",
+   "editor": "",
+   "publisher": "مكتبة القاهرة",
+   "year": "",
+   "volumes": 1,
+   "death": null,
+   "rights": "public_domain",
+   "rightsNote": "",
+   "note": ""
+  }
+ ],
+ "assets": [
+  {
+   "id": "amui33w9c2tt1",
+   "ed": "emui32vfa1fvg",
+   "vol": 1,
+   "kind": "file",
+   "src": "server",
+   "sha": "6c25b2124e067e8db015a3309dc38164d2c2b71a58850aa02658171f555e745c",
+   "url": "pdfs/6c25b2124e067e8db015a3309dc38164d2c2b71a58850aa02658171f555e745c.pdf",
+   "name": "متن ابن عاشر.pdf",
+   "bytes": 9044667,
+   "pages": 32,
+   "offset": 0
+  }
+ ],
+ "tags": [],
+ "nodes": [
+  {
+   "id": "nmuij2pns17tw",
+   "kind": "kitab",
+   "title": "كتاب الطهارة",
+   "parent": null
+  },
+  {
+   "id": "nmuij8b8c3kws",
+   "kind": "bab",
+   "title": "باب الوضوء",
+   "parent": "nmuij2pns17tw"
+  },
+  {
+   "id": "nmuij9cgj4lz0",
+   "kind": "fasl",
+   "title": "فرائض الوضوء",
+   "parent": "nmuij8b8c3kws"
+  }
+ ],
+ "masail": []
+}

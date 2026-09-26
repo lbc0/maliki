@@ -76,6 +76,65 @@
   }
  ],
  "tags": [],
- "nodes": [],
- "masail": []
+ "nodes": [
+  {
+   "id": "nmuij2pns17tw",
+   "kind": "kitab",
+   "title": "كتاب الطهارة",
+   "parent": null
+  },
+  {
+   "id": "nmuij8b8c3kws",
+   "kind": "bab",
+   "title": "باب الوضوء",
+   "parent": "nmuij2pns17tw"
+  },
+  {
+   "id": "nmuij9cgj4lz0",
+   "kind": "fasl",
+   "title": "فرائض الوضوء",
+   "parent": "nmuij8b8c3kws"
+  }
+ ],
+ "masail": [
+  {
+   "id": "mmuijjgjh6jnp",
+   "node": "nmuij9cgj4lz0",
+   "title": "غسل اليدين إلى الكوعين",
+   "situation": "",
+   "status": "draft",
+   "topics": [],
+   "hal": [],
+   "kw": [],
+   "related": [],
+   "qawls": [
+    {
+     "id": "qmuij5w852eo0",
+     "hukm": "h1",
+     "text": "وَغَسْلُ وَجْهٍ غَسْلُهُ الْيَدَيْنِ *** وَمَسْحُ رَأْسٍ غَسْلُهُ الرِّجْلَيْنِ\nوَالْفَرْضُ عَمَّ مَجْمَعَ الْأُذْنَيْن *** وَالْمَرْفِقَيْنِ عَمَّ وَالْكَعْبَيْنِ",
+     "kind": "verbatim",
+     "status": "verified",
+     "note": "",
+     "holders": [],
+     "cites": [
+      {
+       "id": "cmuijhriq51v6",
+       "ed": "emui32vfa1fvg",
+       "vol": 1,
+       "page": 6,
+       "quote": "وَغَسْلُ وَجْهٍ غَسْلُهُ الْيَدَيْنِ *** وَمَسْحُ رَأْسٍ غَسْلُهُ الرِّجْلَيْنِ\nوَالْفَرْضُ عَمَّ مَجْمَعَ الْأُذْنَيْن *** وَالْمَرْفِقَيْنِ عَمَّ وَالْكَعْبَيْنِ",
+       "rect": [
+        0.0225,
+        0.5392,
+        0.9479,
+        0.1085
+       ],
+       "asset": "amui33w9c2tt1"
+      }
+     ],
+     "labels": []
+    }
+   ]
+  }
+ ]
 }
