@@ -45,8 +45,36 @@
   ]
  },
  "scholars": [],
- "editions": [],
- "assets": [],
+ "editions": [
+  {
+   "id": "emui32vfa1fvg",
+   "title": "متن ابن عاشر",
+   "author": "عبد الواحد ابن عاشر",
+   "editor": "",
+   "publisher": "مكتبة القاهرة",
+   "year": "",
+   "volumes": 1,
+   "death": null,
+   "rights": "public_domain",
+   "rightsNote": "",
+   "note": ""
+  }
+ ],
+ "assets": [
+  {
+   "id": "amui33w9c2tt1",
+   "ed": "emui32vfa1fvg",
+   "vol": 1,
+   "kind": "file",
+   "src": "server",
+   "sha": "6c25b2124e067e8db015a3309dc38164d2c2b71a58850aa02658171f555e745c",
+   "url": "pdfs/6c25b2124e067e8db015a3309dc38164d2c2b71a58850aa02658171f555e745c.pdf",
+   "name": "متن ابن عاشر.pdf",
+   "bytes": 9044667,
+   "pages": 32,
+   "offset": 0
+  }
+ ],
  "tags": [],
  "nodes": [],
  "masail": []
